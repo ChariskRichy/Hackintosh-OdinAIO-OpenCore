@@ -21,4 +21,10 @@ Due to weird reason,the USB which is integrated into the Odin device don't work 
 The answer is simple.To Zhuang Bi.
 
 ## Contributions
-W.I.P(Apple,ACDT,Myself,My teacher,My friend,GoopyKibbles)
+- [Apple](https://www.apple.com) for macOS
+- [Team Acidanthera](https://github.com/acidanthera) for OpenCore Bootloader and its powerful Kexts
+- [Team Dortania](https://dortania.github.io) for its amazing Guide
+- [Team VoodooI2C](https://github.com/VoodooI2C) for its Voodoo Kexts(Touchscreen support)
+- [Team OpenIntelWireless](https://github.com/OpenIntelWireless) for Intel Bluetooth and Intel Wireless Kext
+- [GoopyKibbles](https://github.com/GoopyKibbles) for the encouragememt and the thinking of the Bluetooth Verification issue
+- [My teacher and friends] for a lot of chores
