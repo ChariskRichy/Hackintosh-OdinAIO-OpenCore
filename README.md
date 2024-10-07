@@ -27,4 +27,4 @@ The answer is simple.To Zhuang Bi.
 - [Team VoodooI2C](https://github.com/VoodooI2C) for its Voodoo Kexts(Touchscreen support)
 - [Team OpenIntelWireless](https://github.com/OpenIntelWireless) for Intel Bluetooth and Intel Wireless Kext
 - [GoopyKibbles](https://github.com/GoopyKibbles) for the encouragememt and the thinking of the Bluetooth Verification issue
-- [My teacher and friends] for a lot of chores
+- My teacher and friends
